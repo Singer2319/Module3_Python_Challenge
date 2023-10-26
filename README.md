@@ -14,7 +14,7 @@ i was having trouble with it, but it works!
 
 Note to grader: i'm sorry but sometimes for me the long way is easier
 
-like in math I have to write out 2*2*2 = 8 rather than 2^3 = 8
+like in math I have to write out 2 * 2 * 2 = 8 rather than 2^3 = 8
 
 sorry if the code is complicated but my brain prefers a longer but easier route than something shorter but harder
 
